@@ -11,7 +11,7 @@ notes = curr_dir+"/"+"notes.txt"
 
 #--
 text_color = "white"   # text color
-size = "40"            # text size (real size depends on the scale factor of your wallpaper)
+size = "80"            # text size (real size depends on the scale factor of your wallpaper)
 border = 480           # space around your text blocks
 columns = 1            # (max) number of columns
 n_lines = 3          # (max) number of lines per column
