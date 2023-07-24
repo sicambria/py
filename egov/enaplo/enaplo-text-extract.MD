@@ -1,6 +1,8 @@
-# PDF Text Extractor
+# E-NAPLÓ (and generic) PDF Text Extractor
 
 Extract specific blocks of text from a PDF file based on customizable delimiters.
+
+Works with PDF from enaplo.e-epites.hu/
 
 ## Table of Contents
 
