@@ -37,8 +37,6 @@ pip install pypdf2
 
 1. Navigate to the directory containing the script:
 
- ```bash
- cd path_to_script_directory
 
 Run the script with required and optional parameters:
 
